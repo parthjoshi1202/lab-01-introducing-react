@@ -1,0 +1,15 @@
+h1 {
+	font-family:'Heebo', sans-serif;
+	margin: 0;
+    padding: 20px 40px;    
+    text-align: center;
+    background-color: aqua;
+}
+
+input {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 20px 40px;
+    text-align: center;
+    width: 30%;
+    font-size: medium;
+}
